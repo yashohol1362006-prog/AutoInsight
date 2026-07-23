@@ -1,0 +1,11 @@
+Order_ID,Order_Date,Customer,Product,Category,Price,Quantity,Payment_Mode,City
+1001,2026-07-10,Amit,Samsung Galaxy S24 Ultra,Electronics,85000,1,UPI,Pune
+1002,2026-07-11,Priya,Apple iPhone 16,Electronics,92000,1,Card,Mumbai
+1003,2026-07-12,Rahul,HP Laptop,Electronics,65000,2,Cash,Nashik
+1004,2026-07-13,Neha,Office Chair,Furniture,8000,3,UPI,Pune
+1005,2026-07-14,Ankit,Study Table,Furniture,12000,1,Card,Nagpur
+1006,2026-07-15,Meera,Samsung Galaxy Buds,Electronics,9000,2,UPI,Pune
+1007,2026-07-16,Karan,Water Bottle,Home,700,5,Cash,Aurangabad
+1008,2026-07-17,Riya,Notebook,Stationery,120,20,UPI,Pune
+1009,2026-07-18,Vikram,Pen Pack,Stationery,350,10,Card,Mumbai
+1010,2026-07-19,Sneha,Coffee Mug,Home,450,4,Cash,Pune
