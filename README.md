@@ -24,3 +24,8 @@ AutoInsight is a Business Analytics Dashboard built using Python, Pandas, Matplo
 pip install -r requirements.txt
 
 streamlit run app.py
+
+
+
+
+
