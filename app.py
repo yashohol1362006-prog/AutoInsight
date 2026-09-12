@@ -4,7 +4,7 @@ from modules.visualization import (
     revenue_by_category,
     revenue_by_city,
     payment_mode_distribution,
-    sales_trend,
+    sales_trend, 
     top_selling_products,
     sold_by_category
 )
