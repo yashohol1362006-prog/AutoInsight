@@ -58,7 +58,7 @@ if uploaded_file is not None:
         df["Payment_Mode"]
         .value_counts()
         .idxmax()
-    )
+    ) 
 
     st.header("📈 Business Insights")
 
