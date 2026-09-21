@@ -15,7 +15,7 @@ from modules.visulization_by_seaborn import (
     revenue_boxplot
 )
 
-
+ 
 st.set_page_config(page_title="AutoInsight", page_icon="📊", layout="wide")
 
 st.title("📊 AutoInsight")
