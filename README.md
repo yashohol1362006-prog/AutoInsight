@@ -8,7 +8,7 @@ AutoInsight is a Business Analytics Dashboard built using Python, Pandas, Matplo
 - Automatic Business Insights
 - Revenue Analysis
 - Interactive Charts
-- Seaborn Visualizations
+- Seaborn Visualizations 
 
 ## Technologies
 
