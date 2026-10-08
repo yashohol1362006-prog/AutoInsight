@@ -99,4 +99,4 @@ if uploaded_file is not None:
 
     revenue_distribution(df)
 
-    revenue_boxplot(df)
+    revenue_boxplot(df) 
