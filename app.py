@@ -6,7 +6,7 @@ from modules.visualization import (
     payment_mode_distribution,
     sales_trend, 
     top_selling_products,
-    sold_by_category
+    sold_by_category 
 )
 
 from modules.visulization_by_seaborn import (
