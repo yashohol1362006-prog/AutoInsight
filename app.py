@@ -18,7 +18,7 @@ from modules.visulization_by_seaborn import (
  
 st.set_page_config(page_title="AutoInsight", page_icon="📊", layout="wide")
 
-st.title("📊 AutoInsight")
+st.title("📊 AutoInsight") 
 
 uploaded_file = st.file_uploader("Upload your Sales CSV . ASAP 😡😈😼", type=["csv"])
 
