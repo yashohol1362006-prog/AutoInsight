@@ -8,6 +8,7 @@ def load_csv(file_path):
     df= pd.read_csv(file_path)
     return df
 
+#Data Preprocessing 
 def dataset_shape(df):
     rows, col = df.shape
 
