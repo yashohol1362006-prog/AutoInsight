@@ -1,5 +1,6 @@
 import pandas as pd
 
+# Laoding csv file 
 def load_csv(file_path):
     """ 
     Reads csv files and returns a pandas Dataframe
