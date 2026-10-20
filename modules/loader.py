@@ -8,7 +8,7 @@ def load_csv(file_path):
     df= pd.read_csv(file_path)
     return df
 
-#Data Preprocessing 
+# Data Preprocessing 
 def dataset_shape(df):
     rows, col = df.shape
 
@@ -25,6 +25,8 @@ def missing_value(df):
 def dataset_statistics(df):
     print('\n Dataset Statistics \n')
     print(df.describe())
+
+#Buisness Insight
 
 def buisness_insight(df):
     revenue = df['Price'].sum()
