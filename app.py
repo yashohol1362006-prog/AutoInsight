@@ -29,7 +29,7 @@ if uploaded_file is not None:
     st.success("CSV Uploaded Successfully! 🥳🕺😝")
 
     st.subheader("Dataset Preview")
-    st.dataframe(df)
+    st.dataframe(df) 
 
     # ---------------- BUSINESS INSIGHTS ----------------
 
